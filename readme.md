@@ -1,3 +1,3 @@
-# Vanilla JavaScript App
+# Project site creation for STT
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+This repo is details a basic HTML/CSS UI to host API data scrapes through Power Automate and Power BI dashboards.
